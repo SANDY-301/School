@@ -79,4 +79,4 @@ npm run dev
 ```
 
 ## 🎓 Author
-[Siva]
+[Santhosh]
